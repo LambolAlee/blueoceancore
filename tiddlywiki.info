@@ -1,5 +1,5 @@
 {
-  "description": "TW5-T-ONLINE",
+  "description": "blueoceancore plugin",
   "plugins": [
     "tiddlywiki/browser-sniff"
   ],
