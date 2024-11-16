@@ -1,5 +1,5 @@
 {
-  "description": "blueoceancore plugin",
+  "description": "blueoceancore plugin page",
   "plugins": [
     "tiddlywiki/browser-sniff"
   ],
